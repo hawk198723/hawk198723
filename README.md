@@ -1,6 +1,6 @@
 👋 Hi, I’m Jason Wang.
 
-🌱 I’m currently a jr full stack developer.
+🌱 I’m currently a Jr. full stack developer.
 
 📫 I'm from San Diego, CA and you can reach me @ https://www.linkedin.com/in/jason-x-wang/
 
