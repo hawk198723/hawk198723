@@ -2,7 +2,7 @@
 
 🌱 I’m currently a Jr. full stack web developer.
 
-📫 I'm from San Diego, CA and you can reach me @ https://www.linkedin.com/in/jason-x-wang/
+📫 I'm living in San Diego, CA and you can reach me @ https://www.linkedin.com/in/jason-x-wang/
 
 <!---
 hawk198723/hawk198723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
