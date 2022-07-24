@@ -10,8 +10,6 @@
 
 Welcome to my Github! I am Jasno and I am a full stack Developer. I love coding, blockchain, and basketball  
 
-<img align="right" alt="img" width="35%" src="https://media-exp1.licdn.com/dms/image/D4E35AQFKYC-pfEwugw/profile-framedphoto-shrink_200_200/0/1643312112578?e=1659301200&v=beta&t=TBdGuRHUXQkAwcoFC5zsWpxbqXsdATqLrPL_HMdGv5A" width="50%" height="auto" />
-
 
 #### 🌱 Things I am Working/Learing on: 
 - Make small project for fun
