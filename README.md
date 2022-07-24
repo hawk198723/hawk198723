@@ -19,8 +19,8 @@ Welcome to my Github! I am Jasno and I am a full stack Developer. I love coding,
 - push myself a little bit more
 
 #### :computer: Programming languages and tools: 
-<p>
-	![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawk198723 &theme=radical)
+
+	![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawk198723&theme=radical)
 
 <code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"></code>
 <code><img width="40" src="https://www.svgrepo.com/show/55451/html.svg" alt="Html"></code>
