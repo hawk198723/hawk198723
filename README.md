@@ -12,8 +12,8 @@ Welcome to my Github! I am Jasno and I am a full stack Developer. I love coding,
 
 
 #### 🌱 Things I am Working/Learing on: 
-- Make small project for fun
-- Web 3 & Blockchain
+- Make small projects for my portfolio
+- Java Spring
 
 #### :muscle: Things I am challenging myself with:
 - push some codes to github every day
