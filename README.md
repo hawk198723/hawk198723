@@ -8,16 +8,18 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/jason-x-wang/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wang.x.jason@gmail.com)
 
-Welcome to my Github! I am Jasno and I am a full stack Developer. I love coding, blockchain, and basketball  
+Welcome to my GitHub! I'm Jasno, a full-stack developer with a passion for coding, blockchain, and basketball.
 
 
-#### 🌱 Things I am Working/Learing on: 
-- Make small projects for my portfolio
-- Java Spring
+#### 🌱 Currently, I'm focused on:
+- Creating small projects to enhance my portfolio
+- Learning Java Spring framework
 
-#### :muscle: Things I am challenging myself with:
-- push some codes to github every day
-- push myself a little bit more
+#### :muscle: I'm challenging myself to:
+- Commit code to GitHub on a daily basis
+- Continuously push my limits and strive for personal growth
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
 #### :computer: Programming languages and tools: 
 
