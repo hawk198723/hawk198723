@@ -4,9 +4,7 @@
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawk198723&layout=compact">
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hawk198723)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/jason-x-wang/))
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wang.x.jason@gmail.com)
+
 
 Welcome to my GitHub! I'm Jasno, a full-stack developer with a passion for coding, blockchain, and basketball.
 
