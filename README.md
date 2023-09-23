@@ -1,6 +1,6 @@
 # Hi there, I'm Jason 👋
 
-<img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api?username=hawk198723&theme=radical">
+
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawk198723&layout=compact">
 
 
