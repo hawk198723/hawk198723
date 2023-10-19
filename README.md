@@ -6,14 +6,6 @@
 
 Welcome to my GitHub! I'm Jason, an innovative and detail-oriented Full-Stack Developer, passionate about creating effective software solutions and tackling challenging coding projects. My dedication to the field is driven by my inherent love for learning and improving my skills in application development. Outside the coding world, I'm an avid basketball enthusiast, enjoying the blend of strategy and agility the game offers. 🏀
 
-#### 🌱 Current Endeavors:
-- Constructing a range of projects to diversify and enrich my portfolio 🚀
-- Deep diving into the Java Spring framework to expand my back-end prowess 🛠️
-
-#### 🏋️‍♂️ Challenges:
-- Upholding a steady commitment to daily contributions on GitHub 💻
-- Propelling my limits and embracing continuous learning and growth 🌟
-
 Feel free to peruse my repositories and consider them an open invitation for collaboration! Reach out for discussions on technology, to brainstorm or if you have any queries or suggestions.
 
 #### 🛠️ Skills and Tools: 
