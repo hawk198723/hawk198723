@@ -16,6 +16,7 @@ Feel free to peruse my repositories and consider them an open invitation for col
   <code><img width="40" src="https://www.svgrepo.com/show/250453/css.svg" alt="CSS"></code>
   <code><img width="40" src="https://www.svgrepo.com/show/303157/react-logo.svg" alt="React"></code>
   <code><img width="40" src="https://www.svgrepo.com/show/43101/java.svg" alt="Java"></code>
+  <code><img width="40" src="https://www.svgrepo.com/show/43101/java.svg" alt="php"></code>
   <code><img width="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="Node.js"></code>
   <code><img width="40" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW.png" alt="SomeTool"></code>
 </p>
